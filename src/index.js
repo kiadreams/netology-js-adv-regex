@@ -1,1 +1,1 @@
-import './js/gameFunctions.js';
+import './js/validator.js';
